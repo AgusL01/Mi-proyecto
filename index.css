@@ -290,6 +290,7 @@ div{
         /*grid-template-columns: 1fr 2fr;
     grid-template-rows: 1fr 1fr 1fr;*/
     grid-template-areas: 
+    "titulos titulos titulos"
     "menu menu menu"
     "parrafo parrafo parrafo"
     "marcas marcas marcas"
